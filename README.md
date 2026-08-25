@@ -12,5 +12,5 @@ TensorFlow의 MLP와 RNN모델을 활용해 텍스트 분류 모델을 구현한
 ### [3. Image Classification](./Image_classification/Image_classification.ipynb)
 TensorFlow의 MLP와 CNN모델을 활용해 이미지 분류 모델을 구현한 과제
 
-### 4. Model Optimization
+### [4. Model Optimization](./Model_optimization/Model_optimization.ipynb)
 CNN 구조를 변경하며 모델 성능을 비교하고 최적화한 과제
