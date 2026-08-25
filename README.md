@@ -9,7 +9,7 @@ Python과 AI를 활용한 프로젝트 및 과제 수행 결과를 정리한 포
 ### [2. Text Classification](./Text_classification/Text_classification.ipynb)
 TensorFlow의 MLP와 RNN모델을 활용해 텍스트 분류 모델을 구현한 과제
 
-### 3. Image Classification
+### [3. Image Classification](./Image_classification/Image_classification.ipynb)
 TensorFlow의 MLP와 CNN모델을 활용해 이미지 분류 모델을 구현한 과제
 
 ### 4. Model Optimization
