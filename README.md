@@ -9,7 +9,7 @@ Python과 AI를 활용한 프로젝트 및 과제 수행 결과를 정리한 포
 ### 2. Text Classification
 Python과 TensorFlow를 활용한 텍스트 분류 모델 구현
 
-### 3. Image/Text Classification
+### 3. Image Classification
 Python과 TensorFlow를 활용한 이미지 분류 모델 구현
 
 ### 4. Model Optimization
