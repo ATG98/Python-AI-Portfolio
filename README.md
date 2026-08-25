@@ -14,3 +14,6 @@ TensorFlow의 MLP와 CNN모델을 활용해 이미지 분류 모델을 구현한
 
 ### [4. Model Optimization](./Model_optimization/Model_optimization.ipynb)
 CNN 구조를 변경하며 모델 성능을 비교하고 최적화한 과제
+
+### [5. MCTS Gomoku](./MCTS_Gomoku/MCTS_Gomoku.ipynb)
+5x5 오목 게임에서 몬테카를로 트리 탐색(MCTS)을 활용해 최적의 수를 선택하는 AI를 구현한 프로젝트
